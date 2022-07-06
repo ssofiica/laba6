@@ -1,0 +1,3 @@
+﻿  laba6.cpp
+C:\Users\svalo\source\repos\laba6\MyVector.h(205): warning C4715: MyVector<Term>::operator[]: значение возвращается не при всех путях выполнения
+  laba6.vcxproj -> C:\Users\svalo\source\repos\laba6\x64\Debug\laba6.exe
